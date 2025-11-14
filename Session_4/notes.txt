@@ -1,0 +1,4 @@
+spotify api 
+redirect url = localhost 8000
+gemini setup
+npm and nodejs download
